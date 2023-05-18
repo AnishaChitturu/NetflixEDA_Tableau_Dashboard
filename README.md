@@ -15,3 +15,4 @@ Visualize the geographic distribution of movies and TV shows using an interactiv
 #### Interactive Movie/TV Show Details
 Use the drop-down selection to choose a specific movie or TV show and view its details, including description, year of release, rating, duration, and genre.
 These features enable users to explore the Netflix content library, identify interesting patterns, and delve into specific movie or TV show details.
+![image](https://github.com/AnishaChitturu/NetflixEDA_Tableau_Dashboard/assets/74812549/f7676d94-1607-46fc-95b5-85e1eaf09a6b)
